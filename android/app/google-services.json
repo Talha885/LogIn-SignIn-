@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "113743595266",
+    "project_id": "login-ea08b",
+    "storage_bucket": "login-ea08b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113743595266:android:0b1eb5e9b09f090962e41b",
+        "android_client_info": {
+          "package_name": "com.example.sigin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113743595266-hs9clvvgrrv9vrbql57v195t18v8ro8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVdnd4ALegfc3of1iAtqZYWFVtlHvSirQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113743595266-hs9clvvgrrv9vrbql57v195t18v8ro8p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "113743595266-sn1788kr48k2u37dokeo66q2ud1g6bq7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sigin.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
